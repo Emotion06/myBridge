@@ -18,7 +18,7 @@ To install myBridge:
   - Restart the server
 
 ## 2. Usage
-Go to one of the configured black markets. There you can open the menu and buy and sell items and weapons, the more you sell, the more share you get from the black market until it possibly belongs to you and then only you can buy.
+...
 
 ## 3. For developers
 ```lua
