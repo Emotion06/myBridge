@@ -36,7 +36,7 @@ Config.Setup = {
 }
 ```
 
-## 3. Credits
+## 4. Credits
 Big thanks go to [BCC-Scripts](https://github.com/BryceCanyonCounty) the creator of the main script, since many servers already have a train script, but would like to go blow up the bridge, I have written out the functions and integrated them into a separate script.
 
 Click here for the [original script](https://github.com/BryceCanyonCounty/bcc-train)
